@@ -10,4 +10,4 @@ app.get("/", (req, res) => {
   res.send("ayyy lmao");
 });
 
-app.listen(5000, () => console.log("listening at 5000"));
+app.listen(5000, () => console.log("\nlistening at 5000\n"));
